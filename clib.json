@@ -1,6 +1,6 @@
 {
     "name": "hiredis",
-    "version": "0.1.0",
+    "version": "1.2.0",
     "repo": "redis/hiredis",
     "description": "clib template for hiredis client",
     "keywords": ["redis", "hiredis"],
