@@ -1,0 +1,30 @@
+{
+    "name": "hiredis",
+    "version": "0.0.0",
+    "repo": "redis/hiredis",
+    "description": "clib template for hiredis client",
+    "keywords": ["redis", "hiredis"],
+    "license": "MIT",
+    "src": [
+        "alloc.h",
+        "alloc.c",
+        "async.c",
+        "async.h",
+        "async_private.h",
+        "dict.h",
+        "dict.c",
+        "hiredis.c",
+        "hiredis.h",
+        "net.c",
+        "net.h",
+        "read.c",
+        "read.h",
+        "sds.c",
+        "sds.h",
+        "sdsalloc.h",
+        "sockcompat.c",
+        "sockcompat.h",
+        "ssl.c",
+        "win32.h"
+    ]
+  }
